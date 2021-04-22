@@ -1,4 +1,6 @@
-git clone https://github.com/zelar-soft-todoapp/todo.git
+
+
+      git clone https://github.com/zelar-soft-todoapp/todo.git
     
       cd todo/
       
@@ -20,3 +22,4 @@ git clone https://github.com/zelar-soft-todoapp/todo.git
      nginx -t
      npm run build
      service nginx restart
+![Screenshot (27)](https://user-images.githubusercontent.com/82368153/115695500-80158480-a37f-11eb-8f8b-33b69d8225bd.png)
